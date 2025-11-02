@@ -1,0 +1,5 @@
+{
+  "name": "Zine Maker",
+  "description": "An interactive tool to help you create your own 8-page zine from a single A4 sheet. Upload 8 PDF pages, and this app will arrange them into a printable format. Follow the guide to fold, cut, and assemble your zine.",
+  "requestFramePermissions": []
+}
